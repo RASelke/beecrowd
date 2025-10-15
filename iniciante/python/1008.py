@@ -1,5 +1,0 @@
-NUMBER = int(input())
-HORAS = int(input())
-VALOR = float(input())
-print(f'NUMBER = {NUMBER}')
-print(f'SALARY = U$ {HORAS * VALOR:.2f}')
